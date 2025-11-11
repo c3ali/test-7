@@ -1,0 +1,16 @@
+{
+  "name": "une-application-web-de-gestion-de-projets-de-type-kanban-permettant-aux-\u00e9quipes-de-cr\u00e9er-des-tableaux,-d'organiser-les-t\u00e2ches-en-colonnes,-de-suivre-l'avancement-via-un-syst\u00e8me-de-cartes-glissables,-et-de-collaborer-en-temps-r\u00e9el",
+  "version": "1.0.0",
+  "description": "Une application web de gestion de projets de type Kanban permettant aux \u00e9quipes de cr\u00e9er des tableaux, d'organiser les t\u00e2ches en colonnes, de suivre l'avancement via un syst\u00e8me de cartes glissables, et de collaborer en temps r\u00e9el",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
